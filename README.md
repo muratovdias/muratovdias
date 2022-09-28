@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm student of Eurasian National University 👨‍🎓, also currently i'm study in [alem](https://alem.school) 👨‍💻. I am learning Go and plat to develop in backend.
 <!--
 **muratovdias/muratovdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
