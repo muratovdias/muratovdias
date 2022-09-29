@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm student of Eurasian National University 👨‍🎓, also currently i'm study in [alem](https://alem.school) 👨‍💻. I am learning Go and plan to become backend developer.
+I'm student of Eurasian National University 👨‍🎓, also currently i'm study in [alem](https://alem.school) 👨‍💻.
+- 🌱 I’m currently learning Go.
+- ⚡ Fun fact: I played football about 9 years. I really like to ride horses.
 <!--
 **muratovdias/muratovdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
