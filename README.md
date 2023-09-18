@@ -1,7 +1,6 @@
 ### Welcome 👋
 
-I'm a graduate of Eurasian National University 👨‍🎓, also i'm a [certified](https://alem.school/certificates/alumni/muratovdias) Go developer 👨‍💻.
-- 🌱 I’m currently learning Golang.
+I'm a [certified](https://alem.school/certificates/alumni/muratovdias) Go developer 👨‍💻.
 <!--
 **muratovdias/muratovdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
