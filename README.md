@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm a graduate of Eurasian National University 👨‍🎓, also i'm a [certified](https://alem.school/certificates/alumni/muratovdias) Go developer 👨‍💻.
-- 🌱 I’m currently learning Golang and Python.
-- ⚡ Fun fact: I played football about 9 years. I really like to ride horses.
+- 🌱 I’m currently learning Golang.
 <!--
 **muratovdias/muratovdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
